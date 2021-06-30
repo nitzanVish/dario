@@ -1,0 +1,7 @@
+{
+    "db": "DB error",
+    "required_fields":"Required Fields are missing",
+    "invalid_date_format":"Invalid date format",
+    "invalid_usr_id":"User ID should be number",
+    "invalid_cnt_id":"Country ID should be number"
+}
